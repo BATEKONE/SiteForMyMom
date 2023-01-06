@@ -1,0 +1,309 @@
+.between_img{
+    width: 100%;
+    padding: 0px 0 20px 0;
+}
+
+/* Меню */
+
+#menu_ul a{
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.menu_items{
+    font-size: 2px;
+    padding: 0 0 0 7px;
+}
+
+#menu img{
+    width: 20px;
+    padding: 0 0 0 40px;
+}
+
+#menu_ul:last-child{
+    padding: 0 15px 0 40px;
+}
+
+/* Приветственная часть */
+
+.section_welcome{
+    padding: 100px 0 100px 0;
+}
+
+.name{
+    font-size: 10px;
+    margin: 0 0 0 120px;
+}
+
+.f{
+    font-size: 15px;
+}
+
+.io{
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.welcome{
+    display: none;
+}
+
+/* Обо мне */
+
+.about_me{
+    display: block;
+    position: relative;
+    padding: 0 0 50px 0px;
+}
+
+.about_h1{
+    font-size: 20px;
+}
+
+.about_p{
+    font-size: 10px;
+    line-height: 36px;
+    width: 200px;
+    text-align: center;
+    padding: 25px 20px 25px 20px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.about_me_img{
+    margin: 0 20px 0 20px;
+}
+
+.about_me_img img{
+    width: 50px;
+    height: 80px;
+}
+
+.block_img1{
+    display: flex;
+}
+
+.block_img2{
+    display: flex;
+}
+
+#about_me_img1{
+    margin: 50px 20px 0px 0px;
+    box-shadow: 0 0 0 3px #b0862f, 0px 0px 5px #363636;
+}
+
+#about_me_img2{
+    margin: 50px 20px 0px 0px;
+    box-shadow: 0 0 0 3px #b0862f, 0px 0px 5px #363636;
+}
+
+#about_me_img3{
+    margin: 50px 20px 0px 0px;
+    box-shadow: 0 0 0 3px #b0862f, 0px 0px 5px #363636;
+}
+
+#about_me_img4{
+    margin: 50px 20px 0px 0px;
+    box-shadow: 0 0 0 3px #b0862f, 0px 0px 5px #363636;
+}
+
+#about_me_img5{
+    margin: 50px 0px 0px 0px;
+    box-shadow: 0 0 0 3px #b0862f, 0px 0px 5px #363636;
+}
+
+/* Занятия */
+
+.lessons_for_box{
+    box-shadow: 0 0 20px #151515;
+    padding: 0 50px 20px 50px;
+    margin: 0 50px 0 50px;
+    position: relative;
+}
+
+.lessons_h1{
+    font-size: 20px;
+}
+
+.lessons_heading{
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    padding: 15px 25px 15px 25px;
+    margin: 30px 0 10px 0;
+}
+
+.lessons_ul li{
+    font-size: 10px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.section_lessons{
+    margin-bottom: 15%;
+}
+
+/* Отзывы */
+
+.reviews_block_main{
+    flex-direction: column;
+    position: relative;
+}
+
+.reviews_h1_title{
+    font-size: 20px;
+    padding: 20px 0 50px 0;
+}
+
+.img_size{
+    width: 40px;
+    height: 50px;
+}
+
+.reviews_h1{
+    font-size: 12px;
+    padding: 10px 0 10px 0;
+}
+
+.reviews_p{
+    font-size: 10px;
+    line-height: 30px;
+    padding-bottom: 15px;
+}
+
+.reviews_block_first{
+    width: 280px;
+    height: 100%;
+    margin: 0 0 50px 0px;
+    padding: 20px 20px 0px 20px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.reviews_block_second{
+    width: 280px;
+    height: 100%;
+    margin: 0 0 50px 0px;
+    padding: 20px 20px 0px 20px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.reviews_block_third{
+    width: 280px;
+    height: 100%;
+    margin: 0 0 0px 0px;
+    padding: 20px 20px 0px 20px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+/* Перечень услуг */
+
+.list_h1{
+    font-size: 20px;
+}
+
+.section_list_ul{
+    flex-direction: column;
+    position: relative;
+}
+
+.list_ul{
+    padding: 0 10% 0 10%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.list_h1_1{
+    font-size: 12px;
+    line-height: 30px;
+    padding: 15px 10px 15px 10px;
+    margin: 0 0 10px 0;
+}
+
+.list_h1_2{
+    font-size: 12px;
+    line-height: 30px;
+    padding: 15px 10px 15px 10px;
+    margin: 20px 0 10px 0;
+}
+
+.list_li{
+    font-size: 10px;
+    line-height: 36px;
+}
+
+.list_p{
+    font-size: 10px;
+    line-height: 36px;
+    padding-top: 10%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.list_button{
+    font-size: 10px;
+    padding: 15px 10px 15px 10px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 15% 0 5% 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+/* Контакты */
+
+.footer_contacts_main{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.contacts_h1{
+    font-size: 20px;
+    padding: 50px 0 50px 0;
+}
+
+.contacts_p, .footer_contacts p{
+    font-size: 12px;
+    line-height: 25px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.footer_contacts a{
+    font-size: 12px;
+    text-align: center;
+    line-height: 25px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
